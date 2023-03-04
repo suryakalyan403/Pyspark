@@ -1,2 +1,2 @@
 # Pyspark wit Python
-Hands on Pyspark
+Here we are practing the Pyspark and with data 
