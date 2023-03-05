@@ -6,11 +6,12 @@ Write a query to get the patients who made a call within 7 days of their previou
 days, count them as once.
 
 ## Given Table
-Column Name          Type
-
-Policy_holder_id     integer
-call_category        string
-call_received        timestamp
-
-
+    +-----------------+---------------+
+    |Column Name      |        Type   |
+    +-----------------+---------------+
+    | Policy_holder_id|      Integer  |
+    | call_category   |      String   |
+    | call_received   |      timestamp|
+    +-----------------+---------------+
+    
 
